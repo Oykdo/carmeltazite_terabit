@@ -12,7 +12,7 @@ The Carmeltazite Terabit Project explores the revolutionary application of **Car
 
 This project builds upon:
 - Advanced optical physics principles
-- State-of-the-art photonics research (2025-2030)
+- State-of-the-art photonics research
 - Theoretical extrapolation of Carmeltazite's crystalline structure
 - Integration of rare mineral properties with photonic engineering
 
